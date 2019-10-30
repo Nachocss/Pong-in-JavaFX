@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package pong;
 
 import java.util.Random;
@@ -21,8 +16,11 @@ import javafx.stage.Stage;
 import javafx.stage.WindowEvent;
 
 /**
- *
- * @author Nacho
+ * @author Ignacio Sierra Clavijo
+ * 
+ * Controls:
+ * Player 1 (Left): W/S
+ * Player 2 (Right): UP/DOWN
  */
 public class Pong extends Application {
     
